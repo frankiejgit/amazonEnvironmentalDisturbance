@@ -1,0 +1,16 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10.8
+  - jupyter
+  - os
+  - string
+  - random
+  - unidecode
+  - pandas
+  - geopandas
+  - warnings
+  - nb_conda
+  - ipykernel
+  - ipywidgets

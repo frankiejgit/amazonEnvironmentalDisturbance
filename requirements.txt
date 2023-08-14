@@ -4,6 +4,7 @@ random
 unidecode
 pandas
 geopandas
+warnings
 
 #openpyxl
 #geopy
