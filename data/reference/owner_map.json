@@ -1,0 +1,53 @@
+{
+    "amazonia_energia": ["amazonia_energia_sa","caixa_fundo_de_investimentos_em_participacoes_amazonia_energia"],
+    "goldmining":["gold_x_mining_corp"],
+    "perenco": ["perenco_peru_petroleum", "perenco_venezuela_petroleo_y_gas"],
+    "orion": ["orionoil_er_sa","orion_energy_ocanopb"],
+    "amerisur": ["amerisur_resources","amerisur_exploracion_colombia"],
+    "gran_tierra_energy": ["gran_tierra_energy_colombia"],
+    "repsol": ["repsol_ecuador","repsol_ep_bolivia","repsol_exploracion_guyana"],
+    "odebrecht": ["odebrecht_energia_do_brasil","odebrecht_energia_sa"],
+    "engie": ["engie_energia_peru"],
+    "rio_tinto": ["rio_tinto_minera_peru_limitada"],
+    "geopark": ["geopark_colombia", "geopark_peru"],
+    "staatsolie": ["staatsolie_maatschappij_suriname_staatsolie","staatsolie_power_company_suriname"],
+    "eletrobras": [
+        "centrais_eletricas_brasileiras_eletrobras",
+        "centrais_eletricas_do_norte_do_brasil_eletrobas_eletronorte",
+        "furnas_centrais_eletricas_eletrobras_furnas"
+        ],
+    "pluspetrol": ["pluspetrol_bolivia_corporation", "pluspetrol_ecuador", "pluspetrol_resources_corp"],
+    "frontera_energy": ["frontera_energy_colombia"],
+    "tecpetrol": ["tecpetrol_colombia","tecpetrol_bloque_56"],
+    "hunt_oil_company": ["hunt_oil_company_of_peru"],
+    "companhia_hidroeletrica_do_sao_francisco": ["companhia_hidreletrica_do_sao_francisco"],
+    "meridian_mining": ["meridian_mineracao_jaburi"],
+    "cvg": [
+        "corporacion_venezolana_de_guayana_cvg",
+        "corporacion_venezolana_de_guayana_minerven",
+        "electrificacion_del_caroni"],
+    "ypf": ["ypf_bolivia", "ypf_ep_peru"],
+    "ypfb": ["ypfb_andina_repsol__ypfb","ypfb_andina_repsol__ypfb__isnt_this_bolivia_noc","ypfb_chaco"],
+    "canacol_energy": ["canacol_energy_colombia"],
+    "enel": ["enel_generacion_piura","enel_green_power_brasil_participacoes"],
+    "avanco_resources": ["avb_mineracao"],
+    "cepsa": ["cepsa_colombia", "compania_espanola_de_petroleos_cespa"],
+    "edf": ["edf_norte_fluminense"],
+    "edp": ["edp_brasil"],
+    "eletrosul": ["eletrosul_centrais_eletricas_eletrosul"],
+    "corporacion_fonafe": [
+        "empresa_de_generacion_electrica_san_gaban",
+        "empresa_de_generacion_electrica_machupicchu",
+        "petroleos_del_peru_petroperu",
+        "empresa_electricidad_del_peru_electroperu"
+        ],
+    "ende": [
+        "empresa_electrica_corani",
+        "empresa_nacional_de_electricidad_ende",
+        "ende_valle_hermoso"],
+    "crs_resources": ["crs_resources_ecuador"],
+    "sonatrach": ["sonatrach_peru_corporation"],
+    "talisman": ["talisman_colombia_oil_gas"],
+    "vintage_petroleum": ["vintage_petroleum_boliviana"],
+    "vale": ["vale_e_cemig"]
+}
