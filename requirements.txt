@@ -1,0 +1,11 @@
+os
+string
+random
+unidecode
+pandas
+geopandas
+
+#openpyxl
+#geopy
+#folium
+

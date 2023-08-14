@@ -1,0 +1,555 @@
+project_name,latitude,longitude,sector_type,geometry
+abanico,-2.25617,-78.19793,hydropower,POINT (-78.19793 -2.25617)
+afobaka_brokopondo,5.0,-55.0,hydropower,POINT (-55 5)
+ambrosia,-17.0091,-65.6409,hydropower,POINT (-65.6409 -17.0091)
+angel_i_ii_iii,-13.6633,-70.5382,hydropower,POINT (-70.5382 -13.6633)
+anto_ruiz,-13.8833,-70.2,hydropower,POINT (-70.2 -13.8833)
+balbina,-1.91551,-59.47337,hydropower,POINT (-59.47337 -1.91551)
+banda_azul,-17.0364,-65.7339,hydropower,POINT (-65.7339 -17.0364)
+belo_horizonte,-9.21,-76.1131,hydropower,POINT (-76.1131 -9.21)
+belo_monte,-3.1264,-51.775,hydropower,POINT (-51.775 -3.1264)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+cachoeira_caldeirao,0.8533,-51.2917,hydropower,POINT (-51.2917 0.8533)
+nan,,,hydropower,POINT EMPTY
+caruachi_francisco_de_miranda,8.16126,-62.79879,hydropower,POINT (-62.79879 8.16126)
+ccollpani,-13.1434,-72.5822,hydropower,POINT (-72.5822 -13.1434)
+cerro_del_aguila,-12.2241,-74.7006,hydropower,POINT (-74.7006 -12.2241)
+chaglla,-9.694282,-75.836634,hydropower,POINT (-75.836634 -9.694282)
+chimay,-11.32414,-75.30124,hydropower,POINT (-75.30124 -11.32414)
+chojlla,-16.41287,-67.77281,hydropower,POINT (-67.77281 -16.41287)
+coca_codo_sinclair,-0.07654,-77.65822,hydropower,POINT (-77.65822 -0.07654)
+colider,-10.97735,-55.76852,hydropower,POINT (-55.76852 -10.97735)
+corani,-17.21219,-65.87574,hydropower,POINT (-65.87574 -17.21219)
+curibamba,-11.380429,-75.257256,hydropower,POINT (-75.257256 -11.380429)
+curuauna,-2.81278,-54.29944,hydropower,POINT (-54.29944 -2.81278)
+dardanelos,-10.16058,-59.44902,hydropower,POINT (-59.44902 -10.16058)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+delsitanisagua,-3.8974,-78.8703,hydropower,POINT (-78.8703 -3.8974)
+gpbi1guayas_bajo_integrado,1.38333,-74.83333,hydropower,POINT (-74.83333 1.38333)
+guapore,-15.1239,-58.9647,hydropower,POINT (-58.9647 -15.1239)
+nan,,,hydropower,POINT EMPTY
+guri_simon_bolivar_raul_leoni_dam,7.76844,-62.9978,hydropower,POINT (-62.9978 7.76844)
+huaji,-16.04108,-67.97719,hydropower,POINT (-67.97719 -16.04108)
+huallaga_i,-9.7958,-75.9271,hydropower,POINT (-75.9271 -9.7958)
+isimanchi,-4.8393,-79.2398,hydropower,POINT (-79.2398 -4.8393)
+ivirizu,-17.4442,-65.2739,hydropower,POINT (-65.2739 -17.4442)
+nan,,,hydropower,POINT EMPTY
+jauru,-15.24542,-58.72894,hydropower,POINT (-58.72894 -15.24542)
+nan,,,hydropower,POINT EMPTY
+jirau,-9.25499,-64.64448,hydropower,POINT (-64.64448 -9.25499)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+juba,-14.7483,-58.0739,hydropower,POINT (-58.0739 -14.7483)
+la_virgen,-11.187,-75.464,hydropower,POINT (-75.464 -11.187)
+nan,,,hydropower,POINT EMPTY
+macagua_i_ii_iii,8.30122,-62.66471,hydropower,POINT (-62.66471 8.30122)
+machu_picchu,-13.1739,-72.564,hydropower,POINT (-72.564 -13.1739)
+mal_paso,-11.40478,-76.04971,hydropower,POINT (-76.04971 -11.40478)
+misicuni,-17.31379,-66.26255,hydropower,POINT (-66.26255 -17.31379)
+nan,,,hydropower,POINT EMPTY
+normandia,-2.1823,-78.3221,hydropower,POINT (-78.3221 -2.1823)
+nan,,,hydropower,POINT EMPTY
+palillada,-16.6531,-67.3525,hydropower,POINT (-67.3525 -16.6531)
+pucara_pisayambo,-1.0711,-78.4527,hydropower,POINT (-78.4527 -1.0711)
+pusuno,-0.9565,-77.6178,hydropower,POINT (-77.6178 -0.9565)
+restitucion,-12.3539,-74.6557,hydropower,POINT (-74.6557 -12.3539)
+rondon_ii,-11.99566,-60.69688,hydropower,POINT (-60.69688 -11.99566)
+salto_apiacas,-10.33044,-56.98333,hydropower,POINT (-56.98333 -10.33044)
+samuel,-8.7515,-63.4546,hydropower,POINT (-63.4546 -8.7515)
+san_bartolo,-2.749,-78.4134,hydropower,POINT (-78.4134 -2.749)
+san_gaban_original__ii,-13.6,-70.43333,hydropower,POINT (-70.43333 -13.6)
+san_gaban_expansion_i_iii_iv,-13.7199,-70.4528,hydropower,POINT (-70.4528 -13.7199)
+nan,,,hydropower,POINT EMPTY
+san_jose_cora,-17.16721,-65.786,hydropower,POINT (-65.786 -17.16721)
+santa_isabel_corani,-17.1916,-65.8232,hydropower,POINT (-65.8232 -17.1916)
+santa_maria,-13.2057,-73.7349,hydropower,POINT (-73.7349 -13.2057)
+nan,,,hydropower,POINT EMPTY
+santa_teresa_i,-13.07,-72.6241,hydropower,POINT (-72.6241 -13.07)
+santiago_antunez_de_mayolo_mantaro,-12.4644,-74.7865,hydropower,POINT (-74.7865 -12.4644)
+santo_antonio,-8.80167,-63.95083,hydropower,POINT (-63.95083 -8.80167)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+santo_antonio_do_jari,-0.64963,-52.51627,hydropower,POINT (-52.51627 -0.64963)
+nan,,,hydropower,POINT EMPTY
+sao_manoel,-9.18725,-57.05061,hydropower,POINT (-57.05061 -9.18725)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+sinop,-11.26667,-55.45,hydropower,POINT (-55.45 -11.26667)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+teles_pires,-9.35111,-56.7775,hydropower,POINT (-56.7775 -9.35111)
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+nan,,,hydropower,POINT EMPTY
+tingo_i_ii_iii,-6.1873,-77.97991,hydropower,POINT (-77.97991 -6.1873)
+tucurui,-3.83167,-49.64667,hydropower,POINT (-49.64667 -3.83167)
+tulumayo_v,-11.11986,-75.34918,hydropower,POINT (-75.34918 -11.11986)
+umapalca,-16.74,-67.3685,hydropower,POINT (-67.3685 -16.74)
+upamayo,-10.9236,-76.2791,hydropower,POINT (-76.2791 -10.9236)
+veracruz,-6.0719,-78.5544,hydropower,POINT (-78.5544 -6.0719)
+yanacachi_norte,-16.38808,-67.73751,hydropower,POINT (-67.73751 -16.38808)
+yanango,-11.1851,-75.4602,hydropower,POINT (-75.4602 -11.1851)
+yaupi,-10.55823,-75.9145,hydropower,POINT (-75.9145 -10.55823)
+yuncan,-10.71921,-75.65152,hydropower,POINT (-75.65152 -10.71921)
+achapo,1.604114,-75.020834,oil_gas,POINT (-75.020834 1.604114)
+act8,-7.285416,-73.312639,oil_gas,POINT (-73.312639 -7.285416)
+alea_1848_a,0.586735,-76.583298,oil_gas,POINT (-76.583298 0.586735)
+alea_1947_c,0.741843,-76.287813,oil_gas,POINT (-76.287813 0.741843)
+nan,,,oil_gas,POINT EMPTY
+amboro_espejos_norte1,-17.950008,-63.551227,oil_gas,POINT (-63.551227 -17.950008)
+nan,,,oil_gas,POINT EMPTY
+amboro_espejos_norte2,-18.421611,-63.507925,oil_gas,POINT (-63.507925 -18.421611)
+nan,,,oil_gas,POINT EMPTY
+amt84,-2.788239,-58.756725,oil_gas,POINT (-58.756725 -2.788239)
+nan,,,oil_gas,POINT EMPTY
+andaquies,1.335476,-75.846516,oil_gas,POINT (-75.846516 1.335476)
+area_occidental,0.516071,-77.165784,oil_gas,POINT (-77.165784 0.516071)
+area_sur,0.407084,-76.900299,oil_gas,POINT (-76.900299 0.407084)
+arroyo_negro,-16.86972,-63.91697,oil_gas,POINT (-63.91697 -16.86972)
+nan,,,oil_gas,POINT EMPTY
+ba3_azulao,-2.732798,-58.178487,oil_gas,POINT (-58.178487 -2.732798)
+berbice,6.070713,-57.430606,oil_gas,POINT (-57.430606 6.070713)
+block_10_villano,-1.582606,-77.557461,oil_gas,POINT (-77.557461 -1.582606)
+block_103,-6.252881,-76.390294,oil_gas,POINT (-76.390294 -6.252881)
+block_107,-10.024842,-75.228633,oil_gas,POINT (-75.228633 -10.024842)
+block_11_lumbaqui,0.111827,-77.187421,oil_gas,POINT (-77.187421 0.111827)
+block_12_eden_yuturi,-0.42532,-76.09931,oil_gas,POINT (-76.09931 -0.42532)
+block_131,-9.178717,-75.002154,oil_gas,POINT (-75.002154 -9.178717)
+block_14_nantu,-0.688861,-76.080983,oil_gas,POINT (-76.080983 -0.688861)
+block_15_indillana,-0.403715,-76.539045,oil_gas,POINT (-76.539045 -0.403715)
+block_16_iro,-0.861175,-76.249226,oil_gas,POINT (-76.249226 -0.861175)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_17_hormiguero,-1.297095,-77.026937,oil_gas,POINT (-77.026937 -1.297095)
+nan,,,oil_gas,POINT EMPTY
+block_18_palo_azul,-0.242854,-77.205995,oil_gas,POINT (-77.205995 -0.242854)
+block_192,-2.553327,-76.068824,oil_gas,POINT (-76.068824 -2.553327)
+block_21_yuralpa,-0.989526,-77.285685,oil_gas,POINT (-77.285685 -0.989526)
+block_28,-1.452054,-77.901558,oil_gas,POINT (-77.901558 -1.452054)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_31_apaika_nenke,-0.949214,-75.898742,oil_gas,POINT (-75.898742 -0.949214)
+block_31c,-8.416736,-75.254388,oil_gas,POINT (-75.254388 -8.416736)
+block_39,-2.0802,-75.42037,oil_gas,POINT (-75.42037 -2.0802)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_43_itt,-0.916235,-75.571331,oil_gas,POINT (-75.571331 -0.916235)
+block_44_pucuna,-0.265312,-77.010212,oil_gas,POINT (-77.010212 -0.265312)
+block_45_puma,-0.715629,-76.943462,oil_gas,POINT (-76.943462 -0.715629)
+nan,,,oil_gas,POINT EMPTY
+block_46_mdc,-0.407351,-76.820609,oil_gas,POINT (-76.820609 -0.407351)
+block_47_pbhi,-0.361871,-76.97713,oil_gas,POINT (-76.97713 -0.361871)
+block_48_punino,-0.325456,-77.111018,oil_gas,POINT (-77.111018 -0.325456)
+block_49_bermejo,0.215981,-77.364944,oil_gas,POINT (-77.364944 0.215981)
+block_50_charapa,0.208608,-76.877763,oil_gas,POINT (-76.877763 0.208608)
+block_51_chanangue,0.223016,-76.683252,oil_gas,POINT (-76.683252 0.223016)
+block_52_ocano_pena_blanca,0.174356,-76.476973,oil_gas,POINT (-76.476973 0.174356)
+block_53_singue,0.180982,-76.274766,oil_gas,POINT (-76.274766 0.180982)
+block_54_enoron,-0.111484,-76.825517,oil_gas,POINT (-76.825517 -0.111484)
+block_55_armadillo,-0.989523,-76.855693,oil_gas,POINT (-76.855693 -0.989523)
+block_56,8.282,-53.357,oil_gas,POINT (-53.357 8.282)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_56_lago_agrio,0.047903,-76.875327,oil_gas,POINT (-76.875327 0.047903)
+block_57,7.872,-53.545,oil_gas,POINT (-53.545 7.872)
+nan,,,oil_gas,POINT EMPTY
+block_57_shushufindi_libertador,-0.037408,-76.647328,oil_gas,POINT (-76.647328 -0.037408)
+block_58,7.401673,-56.106175,oil_gas,POINT (-56.106175 7.401673)
+block_58_cuyabeno_tipishca,0.170636,-76.299104,oil_gas,POINT (-76.299104 0.170636)
+block_59_vinita,0.114782,-75.950539,oil_gas,POINT (-75.950539 0.114782)
+nan,,,oil_gas,POINT EMPTY
+block_60_sacha,-0.309889,-76.866196,oil_gas,POINT (-76.866196 -0.309889)
+block_61_auca,-0.72641,-76.89179,oil_gas,POINT (-76.89179 -0.72641)
+block_62_tarapoa,-0.173646,-76.302875,oil_gas,POINT (-76.302875 -0.173646)
+block_64_block_morona,-3.308888,-77.027956,oil_gas,POINT (-77.027956 -3.308888)
+nan,,,oil_gas,POINT EMPTY
+block_64_palanda_yuca_sur,-0.550048,-76.762799,oil_gas,POINT (-76.762799 -0.550048)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_65_pindo,-0.684364,-76.788177,oil_gas,POINT (-76.788177 -0.684364)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_66_tiguino,-1.197448,-76.932183,oil_gas,POINT (-76.932183 -1.197448)
+block_67,-1.674334,-75.426919,oil_gas,POINT (-75.426919 -1.674334)
+block_67_tivacuno,-0.646103,-76.347951,oil_gas,POINT (-76.347951 -0.646103)
+block_7_coca_payamino,-0.624482,-77.151242,oil_gas,POINT (-77.151242 -0.624482)
+block_74,-1.706422,-77.3095,oil_gas,POINT (-77.3095 -1.706422)
+block_75,-2.037531,-77.399517,oil_gas,POINT (-77.399517 -2.037531)
+block_79,-1.660766,-77.022425,oil_gas,POINT (-77.022425 -1.660766)
+block_8,-3.429723,-75.383585,oil_gas,POINT (-75.383585 -3.429723)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_83,-1.676989,-76.7579,oil_gas,POINT (-76.7579 -1.676989)
+block_88,-11.817514,-72.697125,oil_gas,POINT (-72.697125 -11.817514)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+block_88_perico,-0.017167,-76.931625,oil_gas,POINT (-76.931625 -0.017167)
+nan,,,oil_gas,POINT EMPTY
+block_89_iguana,0.012557,-76.840186,oil_gas,POINT (-76.840186 0.012557)
+block_90_sahino,0.158009,-76.318875,oil_gas,POINT (-76.318875 0.158009)
+block_91_araza_este,-0.011172,-76.503479,oil_gas,POINT (-76.503479 -0.011172)
+block_92_espejo,-0.201109,-76.544929,oil_gas,POINT (-76.544929 -0.201109)
+block_95,-5.778893,-74.042216,oil_gas,POINT (-74.042216 -5.778893)
+block_lviii,-6.45,-76.79,oil_gas,POINT (-76.79 -6.45)
+block_lxiii,-9.540153,-75.208602,oil_gas,POINT (-75.208602 -9.540153)
+block_lxix,-5.98,-75.89,oil_gas,POINT (-75.89 -5.98)
+boqueron,-17.026891,-64.117368,oil_gas,POINT (-64.117368 -17.026891)
+nan,,,oil_gas,POINT EMPTY
+bsol5_araracanga,-4.755974,-65.662216,oil_gas,POINT (-65.662216 -4.755974)
+bulo_bulo,-17.30762,-64.389532,oil_gas,POINT (-64.389532 -17.30762)
+cag_5,1.017186,-75.500727,oil_gas,POINT (-75.500727 1.017186)
+nan,,,oil_gas,POINT EMPTY
+cag_6,1.081807,-76.110575,oil_gas,POINT (-76.110575 1.081807)
+nan,,,oil_gas,POINT EMPTY
+calcutta,5.791906,-55.785907,oil_gas,POINT (-55.785907 5.791906)
+cambeiti,-20.162062,-63.195474,oil_gas,POINT (-63.195474 -20.162062)
+camiri,-20.073222,-63.56575,oil_gas,POINT (-63.56575 -20.073222)
+nan,,,oil_gas,POINT EMPTY
+campo_san_ignacio,-16.871305,-63.435862,oil_gas,POINT (-63.435862 -16.871305)
+campo_santa_rosa,-16.992815,-63.696605,oil_gas,POINT (-63.696605 -16.992815)
+carohuaicho_8a,-19.188084,-63.456836,oil_gas,POINT (-63.456836 -19.188084)
+carohuaicho_8b,-19.645707,-63.364643,oil_gas,POINT (-63.364643 -19.645707)
+nan,,,oil_gas,POINT EMPTY
+carohuaicho_8d,-20.172865,-63.497525,oil_gas,POINT (-63.497525 -20.172865)
+nan,,,oil_gas,POINT EMPTY
+carrasco,-17.243307,-64.534818,oil_gas,POINT (-64.534818 -17.243307)
+cascabel,-17.048661,-64.258427,oil_gas,POINT (-64.258427 -17.048661)
+nan,,,oil_gas,POINT EMPTY
+cedro,-17.606893,-63.270552,oil_gas,POINT (-63.270552 -17.606893)
+ceiba,1.882623,-74.8125,oil_gas,POINT (-74.8125 1.882623)
+charagua,-19.796114,-63.23877,oil_gas,POINT (-63.23877 -19.796114)
+chaza,1.041973,-76.577479,oil_gas,POINT (-76.577479 1.041973)
+chimore_i,-17.327724,-64.472013,oil_gas,POINT (-64.472013 -17.327724)
+coati,0.373799,-76.822662,oil_gas,POINT (-76.822662 0.373799)
+cobra,-17.037857,-64.176151,oil_gas,POINT (-64.176151 -17.037857)
+nan,,,oil_gas,POINT EMPTY
+colorado,-18.487418,-63.131923,oil_gas,POINT (-63.131923 -18.487418)
+colorado_sur,-18.555226,-63.084595,oil_gas,POINT (-63.084595 -18.555226)
+colpa__caranda,-17.508711,-63.435565,oil_gas,POINT (-63.435565 -17.508711)
+cpe_6,3.296846,-72.228416,oil_gas,POINT (-72.228416 3.296846)
+cpe_8,3.479839,-70.149194,oil_gas,POINT (-70.149194 3.479839)
+nan,,,oil_gas,POINT EMPTY
+cpo_13,3.665617,-71.85359,oil_gas,POINT (-71.85359 3.665617)
+cpo_14,3.70091,-71.193718,oil_gas,POINT (-71.193718 3.70091)
+cpo_16,3.251084,-73.864211,oil_gas,POINT (-73.864211 3.251084)
+cpo_17,3.032385,-72.944655,oil_gas,POINT (-72.944655 3.032385)
+crp_carapanauba,-5.039193,-65.434197,oil_gas,POINT (-65.434197 -5.039193)
+cup_cupiuba,-5.010696,-65.386955,oil_gas,POINT (-65.386955 -5.010696)
+curiche,-18.81621,-63.219176,oil_gas,POINT (-63.219176 -18.81621)
+durillo,2.03468,-74.63194,oil_gas,POINT (-74.63194 2.03468)
+el_dorado,-18.389062,-63.094559,oil_gas,POINT (-63.094559 -18.389062)
+enconada,-17.075265,-63.934413,oil_gas,POINT (-63.934413 -17.075265)
+nan,,,oil_gas,POINT EMPTY
+gaviao_tesoura,-4.184,-44.9695,oil_gas,POINT (-44.9695 -4.184)
+guairuy,-20.272738,-63.586739,oil_gas,POINT (-63.586739 -20.272738)
+nan,,,oil_gas,POINT EMPTY
+guayuyaco_santana_ady,1.043332,-76.440318,oil_gas,POINT (-76.440318 1.043332)
+nan,,,oil_gas,POINT EMPTY
+hobo,2.617463,-75.526866,oil_gas,POINT (-75.526866 2.617463)
+humberto_suarez_roca,-16.971988,-63.77658,oil_gas,POINT (-63.77658 -16.971988)
+isarsama,-17.259461,-64.654944,oil_gas,POINT (-64.654944 -17.259461)
+jr_jurua,-4.808411,-66.326965,oil_gas,POINT (-66.326965 -4.808411)
+junin,-16.949058,-63.858659,oil_gas,POINT (-63.858659 -16.949058)
+junin_sur,-16.981858,-63.87375,oil_gas,POINT (-63.87375 -16.981858)
+kanata_norte,-17.226819,-64.470957,oil_gas,POINT (-64.470957 -17.226819)
+katari,-17.250814,-64.436133,oil_gas,POINT (-64.436133 -17.250814)
+lliquimuni,-15.627118,-67.439489,oil_gas,POINT (-67.439489 -15.627118)
+nan,,,oil_gas,POINT EMPTY
+los_cusis,-16.921253,-63.747027,oil_gas,POINT (-63.747027 -16.921253)
+los_penocos,-16.869875,-63.881769,oil_gas,POINT (-63.881769 -16.869875)
+nan,,,oil_gas,POINT EMPTY
+los_picachos,2.278076,-74.606248,oil_gas,POINT (-74.606248 2.278076)
+nan,,,oil_gas,POINT EMPTY
+luc_leste_do_urucu,-4.857338,-65.122852,oil_gas,POINT (-65.122852 -4.857338)
+macaya,2.142403,-74.394707,oil_gas,POINT (-74.394707 2.142403)
+madidi,-14.017562,-68.507979,oil_gas,POINT (-68.507979 -14.017562)
+nan,,,oil_gas,POINT EMPTY
+mamore,-17.483333,-66.816666,oil_gas,POINT (-66.816666 -17.483333)
+maranta,0.821258,-76.566091,oil_gas,POINT (-76.566091 0.821258)
+mecaya,0.752266,-76.165723,oil_gas,POINT (-76.165723 0.752266)
+nan,,,oil_gas,POINT EMPTY
+montecristo,-17.551086,-62.925753,oil_gas,POINT (-62.925753 -17.551086)
+nancyburdinemaxine,0.594989,-76.703526,oil_gas,POINT (-76.703526 0.594989)
+naranjillos,-18.001424,-63.296862,oil_gas,POINT (-63.296862 -18.001424)
+nickerie,5.786882,-56.849393,oil_gas,POINT (-56.849393 5.786882)
+nogal,1.327349,-75.562831,oil_gas,POINT (-75.562831 1.327349)
+nororiente,0.705974,-76.406362,oil_gas,POINT (-76.406362 0.705974)
+ombu,2.177409,-74.608785,oil_gas,POINT (-74.608785 2.177409)
+nan,,,oil_gas,POINT EMPTY
+oriental,-20.175858,-63.339351,oil_gas,POINT (-63.339351 -20.175858)
+nan,,,oil_gas,POINT EMPTY
+orito,0.665786,-76.87905,oil_gas,POINT (-76.87905 0.665786)
+nan,,,oil_gas,POINT EMPTY
+palacios,-16.971129,-63.976161,oil_gas,POINT (-63.976161 -16.971129)
+nan,,,oil_gas,POINT EMPTY
+palmar,-17.97904,-63.07251,oil_gas,POINT (-63.07251 -17.97904)
+palometas_nw,-16.983873,-63.600507,oil_gas,POINT (-63.600507 -16.983873)
+patuju,-16.99319,-64.081945,oil_gas,POINT (-64.081945 -16.99319)
+nan,,,oil_gas,POINT EMPTY
+patujusal,-16.892711,-63.823197,oil_gas,POINT (-63.823197 -16.892711)
+percheles,-18.182295,-63.238064,oil_gas,POINT (-63.238064 -18.182295)
+petrodelta,9.09,-61.99,oil_gas,POINT (-61.99 9.09)
+nan,,,oil_gas,POINT EMPTY
+petrowarao,9.97,-62.25,oil_gas,POINT (-62.25 9.97)
+nan,,,oil_gas,POINT EMPTY
+platanillo,0.539525,-76.290839,oil_gas,POINT (-76.290839 0.539525)
+pnt47,-4.250051,-45.750104,oil_gas,POINT (-45.750104 -4.250051)
+pnt48a,-4.299454,-45.207924,oil_gas,POINT (-45.207924 -4.299454)
+pnt49,-4.380263,-44.885995,oil_gas,POINT (-44.885995 -4.380263)
+pnt65,-4.691667,-45.6875,oil_gas,POINT (-45.6875 -4.691667)
+pnt66,-4.750053,-45.249977,oil_gas,POINT (-45.249977 -4.750053)
+portofino,1.873672,-74.93835,oil_gas,POINT (-74.93835 1.873672)
+nan,,,oil_gas,POINT EMPTY
+provincia_p_norte,7.473629,-73.390641,oil_gas,POINT (-73.390641 7.473629)
+puerto_palos,-16.970956,-64.01138,oil_gas,POINT (-64.01138 -16.970956)
+nan,,,oil_gas,POINT EMPTY
+puli,4.621139,-74.745047,oil_gas,POINT (-74.745047 4.621139)
+punta_pescador,9.77,-61.76,oil_gas,POINT (-61.76 9.77)
+nan,,,oil_gas,POINT EMPTY
+put_1,0.85025,-76.650007,oil_gas,POINT (-76.650007 0.85025)
+nan,,,oil_gas,POINT EMPTY
+put_10,0.829266,-76.890945,oil_gas,POINT (-76.890945 0.829266)
+put_12,0.453637,-76.117436,oil_gas,POINT (-76.117436 0.453637)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+put_13,0.289876,-75.880306,oil_gas,POINT (-75.880306 0.289876)
+put_14,0.20521,-75.728404,oil_gas,POINT (-75.728404 0.20521)
+put_2,0.8576,-76.357985,oil_gas,POINT (-76.357985 0.8576)
+put_21,0.891431,-76.487071,oil_gas,POINT (-76.487071 0.891431)
+put_25,0.672623,-76.814116,oil_gas,POINT (-76.814116 0.672623)
+put_30,1.159663,-75.898096,oil_gas,POINT (-75.898096 1.159663)
+put_31,0.626526,-76.393138,oil_gas,POINT (-76.393138 0.626526)
+put_33,0.590891,-76.467644,oil_gas,POINT (-76.467644 0.590891)
+put_36,0.897617,-76.111173,oil_gas,POINT (-76.111173 0.897617)
+put_4,0.651607,-76.700497,oil_gas,POINT (-76.700497 0.651607)
+put_6,0.350484,-76.984986,oil_gas,POINT (-76.984986 0.350484)
+put_7,0.380358,-76.684559,oil_gas,POINT (-76.684559 0.380358)
+put_8,0.425161,-76.405876,oil_gas,POINT (-76.405876 0.425161)
+put_9,0.624159,-76.112179,oil_gas,POINT (-76.112179 0.624159)
+nan,,,oil_gas,POINT EMPTY
+putumayo_piedemonte_norte,0.961981,-76.783063,oil_gas,POINT (-76.783063 0.961981)
+nan,,,oil_gas,POINT EMPTY
+putumayo_piedemonte_sur,0.658784,-77.083489,oil_gas,POINT (-77.083489 0.658784)
+rio_ariari,3.030071,-73.467631,oil_gas,POINT (-73.467631 3.030071)
+rio_chitamena,4.927892,-72.726166,oil_gas,POINT (-72.726166 4.927892)
+rio_grande,-18.169828,-62.906102,oil_gas,POINT (-62.906102 -18.169828)
+nan,,,oil_gas,POINT EMPTY
+rio_seco,-18.329054,-63.309243,oil_gas,POINT (-63.309243 -18.329054)
+ruc_rio_ucuru,-4.863526,-65.286627,oil_gas,POINT (-65.286627 -4.863526)
+samichay_a,0.77425,-74.90625,oil_gas,POINT (-74.90625 0.77425)
+samichay_b,1.273668,-74.605404,oil_gas,POINT (-74.605404 1.273668)
+san_miguel,-21.057692,-63.410162,oil_gas,POINT (-63.410162 -21.057692)
+sangretoro,1.731399,-74.302797,oil_gas,POINT (-74.302797 1.731399)
+santa_clara,2.947163,-75.348432,oil_gas,POINT (-75.348432 2.947163)
+santa_rosa,-14.022781,-66.887424,oil_gas,POINT (-66.887424 -14.022781)
+santa_rosa_west,-16.960552,-63.811752,oil_gas,POINT (-63.811752 -16.960552)
+santana,1.043764,-76.408156,oil_gas,POINT (-76.408156 1.043764)
+sirari,-17.071815,-64.164618,oil_gas,POINT (-64.164618 -17.071815)
+nan,,,oil_gas,POINT EMPTY
+solt151,-4.293636,-63.736106,oil_gas,POINT (-63.736106 -4.293636)
+solt168,-4.780589,-66.740685,oil_gas,POINT (-66.740685 -4.780589)
+solt169,-4.892115,-66.140889,oil_gas,POINT (-66.140889 -4.892115)
+solt170,-4.820519,-65.559809,oil_gas,POINT (-65.559809 -4.820519)
+solt171_arara_azul,-4.632355,-65.390658,oil_gas,POINT (-65.390658 -4.632355)
+solt174,-4.750368,-63.750529,oil_gas,POINT (-63.750529 -4.750368)
+solt191,-5.247358,-66.732324,oil_gas,POINT (-66.732324 -5.247358)
+solt192,-5.250062,-66.271268,oil_gas,POINT (-66.271268 -5.250062)
+solt194,-5.276471,-65.296628,oil_gas,POINT (-65.296628 -5.276471)
+solt197,-5.250371,-63.750529,oil_gas,POINT (-63.750529 -5.250371)
+solt214,-5.76287,-66.738045,oil_gas,POINT (-66.738045 -5.76287)
+solt215,-5.750371,-66.250542,oil_gas,POINT (-66.250542 -5.750371)
+solt216,-5.750371,-65.75054,oil_gas,POINT (-65.75054 -5.750371)
+solt217,-5.750372,-65.250538,oil_gas,POINT (-65.250538 -5.750372)
+suc_sudoeste_urucu,-4.985052,-65.336609,oil_gas,POINT (-65.336609 -4.985052)
+suroriente,0.386134,-76.537234,oil_gas,POINT (-76.537234 0.386134)
+nan,,,oil_gas,POINT EMPTY
+nan,,,oil_gas,POINT EMPTY
+surubi,-17.091443,-64.599337,oil_gas,POINT (-64.599337 -17.091443)
+surubi_noroeste,-17.057388,-64.812491,oil_gas,POINT (-64.812491 -17.057388)
+tacacho,0.647789,-75.236454,oil_gas,POINT (-75.236454 0.647789)
+tacobo,-19.019297,-63.219176,oil_gas,POINT (-63.219176 -19.019297)
+tajibo,-19.484487,-63.182418,oil_gas,POINT (-63.182418 -19.484487)
+tambaredjo,5.791675,-55.543972,oil_gas,POINT (-55.543972 5.791675)
+tatarenda,-19.139675,-63.529429,oil_gas,POINT (-63.529429 -19.139675)
+terecay,0.597738,-75.752826,oil_gas,POINT (-75.752826 0.597738)
+tinigua,3.041615,-74.345836,oil_gas,POINT (-74.345836 3.041615)
+nan,,,oil_gas,POINT EMPTY
+uitkijk,5.789374,-55.390205,oil_gas,POINT (-55.390205 5.789374)
+upar,2.835502,-75.474216,oil_gas,POINT (-75.474216 2.835502)
+vibora,-17.092043,-64.288923,oil_gas,POINT (-64.288923 -17.092043)
+nan,,,oil_gas,POINT EMPTY
+warnes,-17.55454,-63.117481,oil_gas,POINT (-63.117481 -17.55454)
+weg_naar_zee,5.741843,-55.205515,oil_gas,POINT (-55.205515 5.741843)
+yapacani,-17.027325,-64.035168,oil_gas,POINT (-64.035168 -17.027325)
+nan,,,oil_gas,POINT EMPTY
+yarara,-17.011531,-64.319851,oil_gas,POINT (-64.319851 -17.011531)
+yd_put_1,1.120051,-76.275942,oil_gas,POINT (-76.275942 1.120051)
+antas_north,-6.23017,-49.7423,mining,POINT (-49.7423 -6.23017)
+apiacas,-9.33338,-57.1189,mining,POINT (-57.1189 -9.33338)
+araguaia_phase_1,-7.9025,-49.4338,mining,POINT (-49.4338 -7.9025)
+araguaia_phase_2,-7.9025,-49.4338,mining,POINT (-49.4338 -7.9025)
+arakaka,7.560842,-60.0379,mining,POINT (-60.0379 7.560842)
+aremu_north,6.55122,-58.9896,mining,POINT (-58.9896 6.55122)
+nan,,,mining,POINT EMPTY
+ariana,-11.4411,-76.3107,mining,POINT (-76.3107 -11.4411)
+aripuana,-10.0483,-59.4956,mining,POINT (-59.4956 -10.0483)
+aurizona,-7.03947,-51.3695,mining,POINT (-51.3695 -7.03947)
+aurora_cuyuni,6.783944,-59.9051,mining,POINT (-59.9051 6.783944)
+b2_tin_tailings_reprocessing_san_rafael,-14.233,-70.3205,mining,POINT (-70.3205 -14.233)
+batistao,-10.4067,-55.1823,mining,POINT (-55.1823 -10.4067)
+bendi,-13.8992,-69.5809,mining,POINT (-69.5809 -13.8992)
+bishop_growler,5.248341,-59.0427,mining,POINT (-59.0427 5.248341)
+nan,,,mining,POINT EMPTY
+boa_vista,-8.22278,-56.542,mining,POINT (-56.542 -8.22278)
+bom_futuro,-10.2778,-63.6239,mining,POINT (-63.6239 -10.2778)
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+bon_espoir,4.878642,-53.8503,mining,POINT (-53.8503 4.878642)
+nan,,,mining,POINT EMPTY
+bonasika,6.44602,-58.4278,mining,POINT (-58.4278 6.44602)
+bongara,-5.849101,-78.063152,mining,POINT (-78.063152 -5.849101)
+boulanger,4.590679,-52.4093,mining,POINT (-52.4093 4.590679)
+cajueiro,-9.36398,-56.6839,mining,POINT (-56.6839 -9.36398)
+castelo_de_sonhos,-9.14549,-53.9273,mining,POINT (-53.9273 -9.14549)
+centrogold,-2.13051,-46.1189,mining,POINT (-46.1189 -2.13051)
+cisne_victoria,-3.0068,-78.4293,mining,POINT (-78.4293 -3.0068)
+condor,-4.08544,-78.5802,mining,POINT (-78.5802 -4.08544)
+nan,,,mining,POINT EMPTY
+coringa,-6.92643,-54.9353,mining,POINT (-54.9353 -6.92643)
+crepori,-7.02781,-56.5009,mining,POINT (-56.5009 -7.02781)
+cristalino,-6.32671,-49.7064,mining,POINT (-49.7064 -6.32671)
+cuiu_cuiu,-5.03076,-57.4355,mining,POINT (-57.4355 -5.03076)
+cumarugradaus,-6.92485,-51.6001,mining,POINT (-51.6001 -6.92485)
+dorlin,3.755001,-53.555765,mining,POINT (-53.555765 3.755001)
+nan,,,mining,POINT EMPTY
+eagle_mountain,5.36446,-59.1998,mining,POINT (-59.1998 5.36446)
+nan,,,mining,POINT EMPTY
+ernesto_pauapique,-15.3367,-59.2617,mining,POINT (-59.2617 -15.3367)
+esperance_gold_mine_concession,4.402002,-54.1918,mining,POINT (-54.1918 4.402002)
+nan,,,mining,POINT EMPTY
+espigao,-11.2686,-61.0393,mining,POINT (-61.0393 -11.2686)
+falcao,-8.85793,-50.3727,mining,POINT (-50.3727 -8.85793)
+falchani,-13.8347,-70.3882,mining,POINT (-70.3882 -13.8347)
+fila_larga_98,-5.716,-78.558,mining,POINT (-78.558 -5.716)
+florida_canyon,-4.57591,-79.6046,mining,POINT (-79.6046 -4.57591)
+nan,,,mining,POINT EMPTY
+fortuna,-3.30931,-78.8031,mining,POINT (-78.8031 -3.30931)
+fruta_del_norte,-3.83472,-78.6021,mining,POINT (-78.6021 -3.83472)
+gaban,-13.4632,-70.3705,mining,POINT (-70.3705 -13.4632)
+nan,,,mining,POINT EMPTY
+haute_mana,3.944,-53.436,mining,POINT (-53.436 3.944)
+nan,,,mining,POINT EMPTY
+itaituba,-4.37551,-55.7483,mining,POINT (-55.7483 -4.37551)
+itapitanga,-6.41781,-51.5911,mining,POINT (-51.5911 -6.41781)
+nan,,,mining,POINT EMPTY
+jaguar_nickel_sulphide_project,-6.44858,-51.1462,mining,POINT (-51.1462 -6.44858)
+jubilee_creek,6.174598,-59.3501,mining,POINT (-59.3501 6.174598)
+juma_east,-6.68278,-59.5685,mining,POINT (-59.5685 -6.68278)
+juruena,-9.80773,-58.5598,mining,POINT (-58.5598 -9.80773)
+karouni,5.900189,-59.3955,mining,POINT (-59.3955 5.900189)
+kurupung_batholith,6.21958,-60.23111,mining,POINT (-60.23111 6.21958)
+la_granja,-6.35,-79.1196,mining,POINT (-79.1196 -6.35)
+la_hueca,-3.76403,-78.9222,mining,POINT (-78.9222 -3.76403)
+las_bambas,-14.0945,-72.2829,mining,POINT (-72.2829 -14.0945)
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+las_cristinas,7.545,-60.934,mining,POINT (-60.934 7.545)
+las_huaquillas,-5.101389,-79.069444,mining,POINT (-79.069444 -5.101389)
+liberdade,-6.61823,-51.9434,mining,POINT (-51.9434 -6.61823)
+nan,,,mining,POINT EMPTY
+luna_greenfields,-1.38963,-45.9297,mining,POINT (-45.9297 -1.38963)
+machado,0.566667,-69.666667,mining,POINT (-69.666667 0.566667)
+mantaro,-11.9641,-75.3058,mining,POINT (-75.3058 -11.9641)
+maravaia,-6.09576,-49.7036,mining,POINT (-49.7036 -6.09576)
+nan,,,mining,POINT EMPTY
+maripa,4.443003,-52.3372,mining,POINT (-52.3372 4.443003)
+nan,,,mining,POINT EMPTY
+marudi,2.320278,-59.0575,mining,POINT (-59.0575 2.320278)
+matupa,-10.066,-54.9273,mining,POINT (-54.9273 -10.066)
+merian,5.107187,-54.4512,mining,POINT (-54.4512 5.107187)
+nan,,,mining,POINT EMPTY
+mineracao_paragominas,-3.26,-47.72,mining,POINT (-47.72 -3.26)
+mirador,-3.57728,-78.4347,mining,POINT (-78.4347 -3.57728)
+mirante_da_serra,-11.0829,-62.7101,mining,POINT (-62.7101 -11.0829)
+mocoa,1.240212,-76.6482,mining,POINT (-76.6482 1.240212)
+montagne_dor,4.461136,-53.5784,mining,POINT (-53.5784 4.461136)
+nan,,,mining,POINT EMPTY
+montes_aureos,-2.51124,-46.1917,mining,POINT (-46.1917 -2.51124)
+nan,,,mining,POINT EMPTY
+morabisi,6.366481,-59.4366,mining,POINT (-59.4366 6.366481)
+nan,,,mining,POINT EMPTY
+ollachea,-13.7945,-70.494,mining,POINT (-70.494 -13.7945)
+onca_puma,-6.57287,-51.0895,mining,POINT (-51.0895 -6.57287)
+orquideascascas,-4.19357,-78.6235,mining,POINT (-78.6235 -4.19357)
+pampa_colorada,-5.94573,-79.220502,mining,POINT (-79.220502 -5.94573)
+pampa_verde,-6.369,-79.172,mining,POINT (-79.172 -6.369)
+panantzasan_carlos,-3.154167,-78.449444,mining,POINT (-78.449444 -3.154167)
+pantera,-6.66739,-50.9941,mining,POINT (-50.9941 -6.66739)
+pebas,-6.76691,-50.6204,mining,POINT (-50.6204 -6.76691)
+planalto,-6.19152,-50.5819,mining,POINT (-50.5819 -6.19152)
+nan,,,mining,POINT EMPTY
+porvenir,-4.58626,-78.9589,mining,POINT (-78.9589 -4.58626)
+quartzstone_gold_project,6.638017,-59.2342,mining,POINT (-59.2342 6.638017)
+rhea,4.268986,-52.431,mining,POINT (-52.431 4.268986)
+rio_blanco,-4.88277,-79.3555,mining,POINT (-79.3555 -4.88277)
+rio_zarza,-3.73948,-78.5804,mining,POINT (-78.5804 -3.73948)
+rioja,-5.950679,-77.322369,mining,POINT (-77.322369 -5.950679)
+rosebel,5.082776,-55.15537,mining,POINT (-55.15537 5.082776)
+s11d_carajas_serra_sul,-6.49544,-49.8729,mining,POINT (-49.8729 -6.49544)
+saintelie,4.820943,-53.283636,mining,POINT (-53.283636 4.820943)
+salinas_pilluana,-6.742,-76.267,mining,POINT (-76.267 -6.742)
+salobo_i_ii_iii,-5.778,-50.521,mining,POINT (-50.521 -5.778)
+salobo_west_project_i__ii,-6.04891,-50.8057,mining,POINT (-50.8057 -6.04891)
+san_martin,-9.0,-76.0,mining,POINT (-76 -9)
+san_simon,-13.654,-62.0567,mining,POINT (-62.0567 -13.654)
+santa_helena,-10.7866,-55.1309,mining,POINT (-55.1309 -10.7866)
+sao_chico,-5.17848,-55.8545,mining,POINT (-55.8545 -5.17848)
+sao_jorge,-6.62862,-55.9452,mining,POINT (-55.9452 -6.62862)
+saramacca,4.974291,-55.4887,mining,POINT (-55.4887 4.974291)
+nan,,,mining,POINT EMPTY
+serra_pelada,-6.10915,-50.1413,mining,POINT (-50.1413 -6.10915)
+nan,,,mining,POINT EMPTY
+siembra_minera,6.266411,-61.4941,mining,POINT (-61.4941 6.266411)
+nan,,,mining,POINT EMPTY
+sosa_mendez_mine_reactivation,7.31786,-67.8136,mining,POINT (-67.8136 7.31786)
+surubim,-8.67011,-55.5991,mining,POINT (-55.5991 -8.67011)
+tarqui,-3.36199,-78.6526,mining,POINT (-78.6526 -3.36199)
+nan,,,mining,POINT EMPTY
+tassawini,7.493834,-59.6673,mining,POINT (-59.6673 7.493834)
+the_lost_citiescutucu,-2.40726,-77.8256,mining,POINT (-77.8256 -2.40726)
+tibiti,4.87038,-55.9428,mining,POINT (-55.9428 4.87038)
+timbara,-4.58626,-78.9589,mining,POINT (-78.9589 -4.58626)
+tocantinzinho,-6.03,-56.18,mining,POINT (-56.18 -6.03)
+toroparu,6.331678,-60.1089,mining,POINT (-60.1089 6.331678)
+trinta,-2.59561,-46.1203,mining,POINT (-46.1203 -2.59561)
+trombetas,-1.68641,-56.775662,mining,POINT (-56.775662 -1.68641)
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+nan,,,mining,POINT EMPTY
+tucano,0.85,-52.9,mining,POINT (-52.9 0.85)
+tucuma,-6.77021,-51.167,mining,POINT (-51.167 -6.77021)
+uniao,-9.59382,-53.8875,mining,POINT (-53.8875 -9.59382)
+vermelho,-6.48732,-49.8971,mining,POINT (-49.8971 -6.48732)
+veta_islay,-10.9762,-76.4737,mining,POINT (-76.4737 -10.9762)
+volta_grande,-3.30094,-52.2365,mining,POINT (-52.2365 -3.30094)
+warintza,-3.166667,-78.283333,mining,POINT (-78.283333 -3.166667)
+wynamu,7.131473,-59.7816,mining,POINT (-59.7816 7.131473)
