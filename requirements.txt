@@ -5,6 +5,7 @@ unidecode
 pandas
 geopandas
 warnings
+plotly
 
 #openpyxl
 #geopy
