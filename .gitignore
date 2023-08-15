@@ -2,3 +2,5 @@ references/
 geospatial_analysis_course/
 .ipynb_checkpoints/
 data/source/
+
+.DS_Store
